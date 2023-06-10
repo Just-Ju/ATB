@@ -1,0 +1,6 @@
+{
+	"pack" : {
+		"pack_format" : 15,
+		"description" : "Anything that can be mined will be counted in 1 scoreboard"
+	}
+}
