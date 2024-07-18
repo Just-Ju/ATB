@@ -1,0 +1,6 @@
+{
+	"values": [
+      "alltheblocks:load",
+      "alltheblocks:tick"
+    ]
+}

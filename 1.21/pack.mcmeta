@@ -1,0 +1,11 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": [
+			{
+				"text": "Anything that can be mined will be counted in 1 scoreboard",
+				"color": "gold"
+			}
+		]
+	}
+}
